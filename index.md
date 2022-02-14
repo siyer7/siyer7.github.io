@@ -1,4 +1,4 @@
-## Research Assistant at [Dartmouth Social Neuroscience Lab] (http://www.dartmouth-socialneurolab.com)
+## Research Assistant at [Dartmouth Social Neuroscience Lab](http://www.dartmouth-socialneurolab.com)
 
 ### Markdown
 
