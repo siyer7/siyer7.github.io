@@ -1,5 +1,5 @@
 ## Research Assistant at [Dartmouth Social Neuroscience Lab](http://www.dartmouth-socialneurolab.com)
-[CV](https://drive.google.com/file/d/1re4ELCf2sCyWzUF3h9sbAehXcIgBKgx4/view?usp=sharing) [Twitter](https://twitter.com/SiddhantIyer6) [siddhant dot kumar dot iyer at gmail dot com](mailto:siddhant.kumar.iyer@gmail.com)
+[CV](https://drive.google.com/file/d/1re4ELCf2sCyWzUF3h9sbAehXcIgBKgx4/view?usp=sharing) [Twitter](https://twitter.com/SiddhantIyer6) [siddhant dot kumar dot iyer at gmail dot com](mailto:siddhant.kumar.iyer@gmail.com)
 
 ![](images/sid.jpg)
 
