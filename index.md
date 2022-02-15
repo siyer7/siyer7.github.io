@@ -1,5 +1,7 @@
 ## Research Assistant at [Dartmouth Social Neuroscience Lab](http://www.dartmouth-socialneurolab.com)
 
+[](https://github.com/siyer7/siyer7.github.io/blob/main/images/sid.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
