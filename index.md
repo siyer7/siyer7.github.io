@@ -3,8 +3,8 @@
 
 ![](images/sid.jpg)
 
-[Research](Research.md)
+[Research](Research.md)  
 [Personal](Personal.md)
 
-Hi! This is me, Siddhant (can go by _Sid_). I have a serious dearth of good solo pictures.
+Hi! This is me, Siddhant (can go by _Sid_). I have a serious dearth of good solo pictures.  
 This site, which will probably be a forever work-in-progress, is an attempt to document my research, and more generally, my life beyond research. While the site was initially a career/research oriented project, I have strived to also make the personal component transparent and relatable, noting my failures, struggles, and learnings, both in and out of lab. I hope you enjoy and feel free to reach out.
