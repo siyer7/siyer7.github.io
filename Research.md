@@ -6,9 +6,11 @@
    </figcaption>
 </figure>
 
+<style>
 figcaption {
    display: none;
 }
 figure:hover figcaption {
    display: block;
 }
+</style>
