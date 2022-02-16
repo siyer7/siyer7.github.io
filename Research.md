@@ -8,4 +8,4 @@
       figcaption {  display: none; }
       figure:hover figcaption { display: block;}
    </style>
-   </figure>
+</figure>
