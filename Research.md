@@ -4,13 +4,8 @@
         <h3>Cool Image</h3>
         <a href="http://coolplace.com">http://coolplace.com</a>
    </figcaption>
-</figure>
-
-<style>
-figcaption {
-   display: none;
-}
-figure:hover figcaption {
-   display: block;
-}
-</style>
+   <style>
+      figcaption {  display: none; }
+      figure:hover figcaption { display: block;}
+   </style>
+   </figure>
