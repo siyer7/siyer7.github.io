@@ -3,7 +3,7 @@
 
 ![](images/sid.jpg)
 
-[Research](Research.md)  
+[Research](Research.html)  
 [Personal](Personal.md)  
 [Research_temp](Research_temp.html)  
 
