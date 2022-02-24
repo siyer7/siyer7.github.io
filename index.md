@@ -4,7 +4,7 @@
 ![](images/sid.jpg)
 
 [Research](Research.md)  
-[Personal](Personal.md)
+[Personal](Personal.md)  
 [Research test bed](research_testbed.md)  
 
 Hi! This is me, Siddhant (can go by _Sid_). I have a serious dearth of good solo pictures.  
