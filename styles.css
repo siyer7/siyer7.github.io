@@ -2,12 +2,6 @@
     box-sizing: border-box;
   }
 
-  /* Set a background color */
-  body {
-    background-color: #474e5d;
-    font-family: Helvetica, sans-serif;
-  }
-
   /* The actual timeline (the vertical ruler) */
   .timeline {
     position: relative;
@@ -33,20 +27,6 @@
     position: relative;
     background-color: inherit;
     width: 50%;
-  }
-
-  /* The circles on the timeline */
-  .container::after {
-    content: '';
-    position: absolute;
-    width: 25px;
-    height: 25px;
-    right: -17px;
-    background-color: white;
-    border: 4px solid #FF9F55;
-    top: 15px;
-    border-radius: 50%;
-    z-index: 1;
   }
 
   /* Place the container to the left */
@@ -87,11 +67,6 @@
     border-color: transparent white transparent transparent;
   }
 
-  /* Fix the circle for containers on the right side */
-  .right::after {
-    left: -16px;
-  }
-
   /* The actual content */
   .content {
     padding: 20px 30px;
@@ -120,11 +95,6 @@
       border: medium solid white;
       border-width: 10px 10px 10px 0;
       border-color: transparent white transparent transparent;
-    }
-
-  /* Make sure all circles are at the same spot */
-    .left::after, .right::after {
-      left: 15px;
     }
 
   /* Make all right containers behave like the left ones */
