@@ -3,7 +3,7 @@
 
 ![](images/sid.jpg)
 
-[Research](Research.html)  
+[Research](Research.md)  
 [Personal](Personal.md)  
 
 Hi! This is me, Siddhant (can go by _Sid_). I have a serious dearth of good solo pictures.  
