@@ -4,6 +4,7 @@
 ![](images/sid.jpg)
 
 [Research](Research.html)  
+[Scientific influences](influences.html)  
 [Personal](Personal.md)  
 
 Hi! This is me, Siddhant (or _Sid_). Yes, I have a serious dearth of good solo pictures.  
