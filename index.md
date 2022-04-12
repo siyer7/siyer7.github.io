@@ -3,8 +3,8 @@
 
 ![](images/sid.jpg)
 
-[Research](Research.html)  
-[Scientific influences](Influences.html)  
+[Projects](Projects.html)  
+[Philosophies](Philosophies.html)  
 [Personal](Personal.md)  
 
 Hi - yes, I have a serious dearth of good solo pictures!  
