@@ -3,7 +3,7 @@
 
 ![](images/sid.jpg)
 
-[Projects](Projects.html)  
+[Projects](Projects.md)  
 [Philosophies](Philosophies.html)  
 [Personal](Personal.md)  
 
