@@ -4,18 +4,19 @@
 Embed instead of links?
 
 ## Cognitive processes underlying Collective Empathy (poster at Social & Affective Neuroscience Society, 2022)  
-We find that empathic subjects engage brain regions involved in mentalizing (imagining the other person’s perspective/state of mind) and emotion processing. We find this using Inter-Subject Correlation (ISC): picking up only those brain signals that all (empathic) subjects seem to commonly/synchronously exhibit.
-We also find some evidence for other cognitive processes at play. Individuals with similar empathy levels show similar brain activity in regions involved in fear processing. So, while mentalizing & emotion processing could aid empathy, you might be bounded in your ability to empathize by certain other cognitive processes too.
+Overview - Empathic subjects are those who seem to collectively & synchronoulsy engage in mentalizing (perspective-taking) and emotion processing.  
+Nitty-gritty - We find greater similarity in brain activity across more empathic subjects. This similarity is seen in mentalizing & emotion processing brain regions.  
+My roles/techniques - Conducting Inter-subject Correlation (ISC)(link), Inter-Subject Representation-Similarity Analysis (IS-RSA)(link) from scratch, performing sentimental analysis using NLTK (python).  
 
-<embed src="https://drive.google.com/file/d/1uMWSkg_BLRcWkgo3oWmDZFbbHz06-yCp/view?usp=sharing" type="application/pdf">
+## Representation of people in the brain and it's association with social connection (data collection ongoing)  
+Overview - Do people's extent of social connection modulate self-other neural representation? Do loneliner folks have more distinct representation of themselves? Are certain folks more susceptible to negative social evaluation?  
+Nitty-gritty - we also collect behavioral assays and blood samples (to test for biomarkers for extreme social disconnectedness/loneliness).  
+My roles/techniques - designing experiment (python, psychopy), setting up fMRI protocol, recruiting/running subjects, preprocessing fMRI data (fmriprep), and more to come.  
 
-## Do people’s extent of social connection modulate self-other neural representation? (data collection ongoing)  
-We hypothesize that if you are socially disconnected or lonely, your brain activity when thinking about yourself is very different from your brain activity when thinking about your friends. If you are very socially connected, your brain activity when thinking about yourself is very similar to your brain activity when thinking about your friends. Other cool stuff: we collect blood samples to test for biomarkers for loneliness, and also test for susceptibility to negative social evaluation.
-
-## Does neural similarity with a partner correlation with relationship satisfaction? (Undergraduate Honors Thesis, 2021)  
+## Representation of oneself and one's romantic partner and it's association with relationship satisfaction (Undergraduate Honors Thesis, 2021)  
 lorem
 
-## Is Perception-Cognition misalignment causing overconfidence? (Advanced Lab, 2020)  
+## Are we less equipped at cognitive mental operations, compared to perceptual ones? Our blindness to cognitive relative difficulty of Is Perception-Cognition misalignment causing overconfidence? (Poster from Advanced Lab course, at Undergraduate Research Exposition, 2020)  
 lorem
 
 ## Is visuo-proprioceptive integration different in Autism? (Summer research, 2019)  
