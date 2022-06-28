@@ -2,7 +2,7 @@
 [CV](https://drive.google.com/file/d/1re4ELCf2sCyWzUF3h9sbAehXcIgBKgx4/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/SiddhantIyer6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Contact](mailto:siddhant.kumar.iyer@gmail.com)  
 
 ## Cognitive processes underlying Collective Empathy (poster at <a href="https://socialaffectiveneuro.org">Social Affective Neuroscience Society, 2022</a>)  
-Collective (group) empathy drives numerous real-world actions like fundraisers and petitions. What cognitive processes underly such empathy in such groups of people? To study this, we investigate what brain regions are activated at the same time (synchronously) across the group of people, and find that the regions (and cognitive processes) involved are mentalizing (perspective-taking) and emotion processing.  
+Collective (group) empathy drives numerous real-world actions like fundraisers and petitions. Which cognitive processes underly empathy in such groups of people? To study this, we investigate what brain regions are activated at the same time (synchronously) across the group of people, and find that the regions (and cognitive processes) involved are mentalizing (perspective-taking) and emotion processing, suggesting intervention targets to improve empathy.  
 **Tools/techniques** - <a href="https://www.hassonlab.com/inter-subject-correlation">Inter-subject Correlation (ISC)</a>, <a href="https://naturalistic-data.org/content/Intersubject_RSA.html">Inter-Subject Representation-Similarity Analysis (IS-RSA)</a>, sentiment analysis (NLTK, python).  
 **Involvement** - analysis.  
 
@@ -23,14 +23,14 @@ Are people able to mentally represent their romantic partners' thoughts (this ab
 <a href="https://drive.google.com/file/d/1ns8i8w2RaADW3nm_YVQnqG3MIgnHVREG/view?usp=sharing">*Thesis*</a>
 
 ## Overconfidence at cognitive tasks driven by ignorance? (Poster from Advanced Lab course, at Undergraduate Research Exposition, 2020)  
-A replication of <a href="https://www.nature.com/articles/s41467-019-09330-7">Human noise blindness drives suboptimal cognitive inference, by Summerfield, C, et al., 2019 (Nature communications)</a>. For the same level of difficulty, we are less accurate but more (over)confident at cognitive tasks, relative to perceptual tasks, suggesting that we are blind to cognitive difficulty.  
+A replication of <a href="https://www.nature.com/articles/s41467-019-09330-7">Human noise blindness drives suboptimal cognitive inference, by Summerfield, C, et al., 2019 (Nature communications)</a>. For the same level of difficulty, we are less accurate but more (over)confident at cognitive tasks, relative to perceptual tasks, suggesting that we are blind to cognitive difficulty. This sheds further light on the nature of multidimensional human intelligence.  
 **Tools/techniques** - Matlab, Psychtoolbox.  
 **Involvement** - spearheading project, from design to data collection/analysis, and writing/presentation.  
 
 <a href="https://drive.google.com/file/d/1pCj8Sbk03pn_dSXaHzwuUj3CtMXM5PMt/view?usp=sharing">*Poster (audio inaccessible)*,  </a><a href="https://drive.google.com/file/d/1jOr3APRANkCdkK8yipAX8hQSRBJugI18/view?usp=sharing">*Manuscript*</a>
 
 ## Do people with autism differently integrate visual & proprioceptive inputs from Virtual Reality? (Summer research, 2019)  
-People with Austism exhibit atypical multisensory integration, which may cause difficulties with sensorimotor behaviors. Here, we investigate visuo-proprioceptive integration using a VR Headset, predicting overweighting of proprioceptive inputs.  
+People with Austism exhibit atypical multisensory integration, which may cause difficulties with sensorimotor behaviors. Here, we investigate their visuo-proprioceptive integration using a VR Headset, predicting overweighting of proprioceptive inputs.  
 **Tools/techniques** - Unity game design, C#, VR Oculus Rift.  
 **Involvement** - experimental design, piloting.  
 
