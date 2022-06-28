@@ -2,7 +2,7 @@
 [CV](https://drive.google.com/file/d/1re4ELCf2sCyWzUF3h9sbAehXcIgBKgx4/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/SiddhantIyer6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Contact](mailto:siddhant.kumar.iyer@gmail.com)  
 
 ## Cognitive processes underlying Collective Empathy (poster at <a href="https://socialaffectiveneuro.org">Social Affective Neuroscience Society, 2022</a>)  
-We find greater similarity in brain activity across more empathic subjects. This similarity is seen in mentalizing & emotion processing brain regions, using functional Magnetic Resonance Imaging (fMRI) data. Thus, empathic subjects are those who seem to collectively & synchronously engage in mentalizing (perspective-taking) and emotion processing.  
+Collective (group) empathy drives numerous real-world actions like fundraisers and petitions. What cognitive processes underly such empathy in such groups of people? To study this, we investigate what brain regions are activated at the same time (synchronously) across the group of people, and find that the regions (and cognitive processes) involved are mentalizing (perspective-taking) and emotion processing.  
 **Tools/techniques** - <a href="https://www.hassonlab.com/inter-subject-correlation">Inter-subject Correlation (ISC)</a>, <a href="https://naturalistic-data.org/content/Intersubject_RSA.html">Inter-Subject Representation-Similarity Analysis (IS-RSA)</a>, sentiment analysis (NLTK, python).  
 **Involvement** - analysis.  
 
