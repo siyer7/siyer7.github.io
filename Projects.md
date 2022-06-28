@@ -9,7 +9,7 @@ We find greater similarity in brain activity across more empathic subjects. This
 <a href="https://youtu.be/W3ox_JQOzf0">*Video presentation*,  </a><a href="https://drive.google.com/file/d/1S5LWDyt2Ohi6v8Ymg9virOk8BSyNZ0kR/view?usp=sharing">*Poster*</a>
 
 ## Representation of people in the brain and it's association with social connection (data collection ongoing)  
-Does people's extent of social connection modulate self-other neural representation? Do loneliner folks have more distinct representation of themselves? Are certain folks more susceptible to negative social evaluation? We also collect behavioral data, blood samples (to test for loneliness biomarkers), interview recordings.  
+Does people's extent of social connection modulate self-other neural representation? Do loneliner folks have more distinct representations of themselves? Are certain folks more susceptible to negative social evaluation? To answer these questions, we are collecting fMRI data, behavioral data, blood samples (to test for loneliness biomarkers), and interview recordings.  
 **Tools/techniques** - Python, Psychopy, fmriprep, and more to come.  
 **Involvement** - experimental design, data collection, and more to come.  
 
@@ -17,13 +17,13 @@ Does people's extent of social connection modulate self-other neural representat
 
 ## Neural Theory of Mind (ToM) and it's association with relationship satisfaction (Undergraduate Honors Thesis, 2021)  
 Are people able to mentally represent their romantic partners' thoughts (this ability, roughly, is called Theory of Mind)? To do so, are they imagining themselves in their partners' shoes (Simulation), or following common-sense mental schemas (Theory-Theory)? (<a href="http://embodiedknowledge.blogspot.com/2011/02/simulation-theory-vs-theory-theory.html">read: ToM & simulation vs theory-theory)</a> Does this have effects on their relationship? We found neural evidence for Theory of Mind in practice, but could not account for it using the Simulation hypothesis, and did not find an associated with relationship satisfaction.  
-**Tools/techniques** - SPM, <a href="https://www.youtube.com/watch?v=odXZS8OYnDE">Multi-Voxel Pattern Analysis</a> using <a href="https://sites.google.com/site/tdtdecodingtoolbox/">The Decoding Toolbox</a> (Matlab), multi-level modeling (*R*), <a href="https://journals.sagepub.com/doi/abs/10.1080/01650250444000405?journalCode=jbda">actor-partner interdependence modeling</a>.
+**Tools/techniques** - SPM, <a href="https://www.youtube.com/watch?v=odXZS8OYnDE">Multi-Voxel Pattern Analysis</a> using <a href="https://sites.google.com/site/tdtdecodingtoolbox/">The Decoding Toolbox</a> (Matlab), multi-level modeling (*R*), <a href="https://journals.sagepub.com/doi/abs/10.1080/01650250444000405?journalCode=jbda">actor-partner interdependence modeling</a>.  
 **Involvement** - analysis, writing/presentation.  
 
 <a href="https://drive.google.com/file/d/1ns8i8w2RaADW3nm_YVQnqG3MIgnHVREG/view?usp=sharing">*Thesis*</a>
 
 ## Overconfidence at cognitive tasks driven by ignorance? (Poster from Advanced Lab course, at Undergraduate Research Exposition, 2020)  
-A replication of <a href="https://www.nature.com/articles/s41467-019-09330-7">*Human noise blindness drives suboptimal cognitive inference, by Summerfield, C, et al., 2019 (Nature communications)</a>. For the same level of difficulty, we are less accurate but more (over)confident at cognitive tasks, relative to perceptual tasks, suggesting that we are blind to cognitive difficulty.  
+A replication of <a href="https://www.nature.com/articles/s41467-019-09330-7">Human noise blindness drives suboptimal cognitive inference, by Summerfield, C, et al., 2019 (Nature communications)</a>. For the same level of difficulty, we are less accurate but more (over)confident at cognitive tasks, relative to perceptual tasks, suggesting that we are blind to cognitive difficulty.  
 **Tools/techniques** - Matlab, Psychtoolbox.  
 **Involvement** - spearheading project, from design to data collection/analysis, and writing/presentation.  
 
