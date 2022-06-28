@@ -6,8 +6,7 @@ Collective (group) empathy drives numerous real-world actions like fundraisers a
 >Tools/techniques - [Inter-subject Correlation (ISC)](https://www.hassonlab.com/inter-subject-correlation), [Inter-Subject Representation-Similarity Analysis (IS-RSA)](https://naturalistic-data.org/content/Intersubject_RSA.html), sentiment analysis (NLTK, python).  
 >Involvement - analysis.  
 ### [Video presentation](https://youtu.be/W3ox_JQOzf0), [Poster](https://drive.google.com/file/d/1S5LWDyt2Ohi6v8Ymg9virOk8BSyNZ0kR/view?usp=sharing)
-
-
+<br/><br/>
 ## Representation of people in the brain and it's association with social connection (data collection ongoing)  
 Does people's extent of social connection modulate self-other neural representation? Do loneliner folks have more distinct representations of themselves? Are certain folks more susceptible to negative social evaluation? To answer these questions, we are collecting fMRI data, behavioral data, blood samples (to test for loneliness biomarkers), and interview recordings.  
 >Tools/techniques - Python, Psychopy, fmriprep, and more to come.  
