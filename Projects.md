@@ -3,8 +3,8 @@
 
 ## Cognitive processes underlying Collective Empathy (poster at [Social Affective Neuroscience Society](https://socialaffectiveneuro.org))  
 Collective (group) empathy drives numerous real-world actions like fundraisers and petitions. Which cognitive processes underly empathy in such groups of people? To study this, we investigate what brain regions are activated at the same time (synchronously) across the group of people, and find that the regions (and cognitive processes) involved are mentalizing (perspective-taking) and emotion processing, suggesting intervention targets to improve empathy.  
->Tools/techniques - [Inter-subject Correlation (ISC)](https://www.hassonlab.com/inter-subject-correlation), [Inter-Subject Representation-Similarity Analysis (IS-RSA)](https://naturalistic-data.org/content/Intersubject_RSA.html), sentiment analysis (NLTK, python).  
->Involvement - analysis.  
+Tools/techniques - [Inter-subject Correlation (ISC)](https://www.hassonlab.com/inter-subject-correlation), [Inter-Subject Representation-Similarity Analysis (IS-RSA)](https://naturalistic-data.org/content/Intersubject_RSA.html), sentiment analysis (NLTK, python).  
+Involvement - analysis.  
 ### [Video presentation](https://youtu.be/W3ox_JQOzf0), [Poster](https://drive.google.com/file/d/1S5LWDyt2Ohi6v8Ymg9virOk8BSyNZ0kR/view?usp=sharing)
 <br/><br/>
 ## Representation of people in the brain and it's association with social connection (data collection ongoing)  
