@@ -11,6 +11,7 @@ Involvement - analysis.
 Does people's extent of social connection modulate self-other neural representation? Do loneliner folks have more distinct representations of themselves? Are certain folks more susceptible to negative social evaluation? To answer these questions, we are collecting fMRI data, behavioral data, blood samples (to test for loneliness biomarkers), and interview recordings.  
 >Tools/techniques - Python, Psychopy, fmriprep, and more to come.  
 >Involvement - experimental design, data collection, and more to come.  
+
 ### [Link to related paper](https://www.jneurosci.org/content/40/29/5616.long)
 <br/><br/>
 ## Neural Theory of Mind (ToM) and it's association with relationship satisfaction (Undergraduate Honors Thesis, 2021)  
