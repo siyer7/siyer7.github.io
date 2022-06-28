@@ -8,7 +8,7 @@ Embed instead of links?
 **Nitty-gritty** - We find greater similarity in brain activity across more empathic subjects. This similarity is seen in mentalizing & emotion processing brain regions.  
 **My roles/techniques** - Conducting Inter-subject Correlation (ISC)(link), Inter-Subject Representation-Similarity Analysis (IS-RSA)(link) from scratch, performing sentimental analysis using NLTK (python).  
 
-<a href="[https://socialaffectiveneuro.org](https://docs.google.com/presentation/d/1ngKwLrQ7gjJJA5Is354c3vd0HABcxsw6/edit?usp=sharing&ouid=100447982920009520299&rtpof=true&sd=true_)">,_Poster_</a>
+<a href="[https://socialaffectiveneuro.org](https://youtu.be/W3ox_JQOzf0)">,_Virtual Presentation_</a> <a href="(https://docs.google.com/presentation/d/1ngKwLrQ7gjJJA5Is354c3vd0HABcxsw6/edit?usp=sharing&ouid=100447982920009520299&rtpof=true&sd=true_)">,_Poster_</a>
 
 ## Representation of people in the brain and it's association with social connection (data collection ongoing)  
 **Overview** - Do people's extent of social connection modulate self-other neural representation? Do loneliner folks have more distinct representation of themselves? Are certain folks more susceptible to negative social evaluation?  
