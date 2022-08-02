@@ -4,7 +4,7 @@
 ![](images/nyc.jpg)
 
 [Projects](Projects.md)  
-[Philosophies](Philosophies.html)  
+[Philosophies](Philosophies.md)  
 [Personal](Personal.md)  
 
 Hello! This site, which will probably be a forever work-in-progress, is an attempt to document my research, and more generally, my life beyond research. While the site was initially a career/research oriented project, I have strived to also make the personal component transparent and relatable, noting my failures, struggles, and learnings, both in and out of lab. I hope you enjoy and feel free to reach out.
