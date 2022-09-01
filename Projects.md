@@ -27,7 +27,7 @@ A replication of [Human noise blindness drives suboptimal cognitive inference, b
 >Tools/techniques - Matlab, Psychtoolbox.  
 >Involvement - spearheading project, from design to data collection/analysis, and writing/presentation.  
 
-### [Poster (audio inaccessible)](https://drive.google.com/file/d/1pCj8Sbk03pn_dSXaHzwuUj3CtMXM5PMt/view?usp=sharing),  [Manuscript](https://drive.google.com/file/d/1jOr3APRANkCdkK8yipAX8hQSRBJugI18/view?usp=sharing)
+### [Poster](https://drive.google.com/file/d/1kt2NTJqlA8VAAGdZ8CnLlgxnGuXFlgvf/view?usp=sharing),  [Manuscript](https://drive.google.com/file/d/1jOr3APRANkCdkK8yipAX8hQSRBJugI18/view?usp=sharing)
 <br/><br/>
 ## Do people with autism differently integrate visual & proprioceptive inputs from Virtual Reality? (Summer research, 2019)  
 People with Austism exhibit atypical multisensory integration, which may cause difficulties with sensorimotor behaviors. Here, we investigate their visuo-proprioceptive integration using a VR Headset, predicting overweighting of proprioceptive inputs.  
