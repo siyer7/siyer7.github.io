@@ -2,11 +2,7 @@
 [CV](https://drive.google.com/file/d/1re4ELCf2sCyWzUF3h9sbAehXcIgBKgx4/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/SiddhantIyer6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Contact](mailto:siddhant.kumar.iyer@gmail.com)  
 
 ## The Default Mode Network Imbues Subjectivity in Social Memory during Consolidation  
-Collective (group) empathy drives numerous real-world actions like fundraisers and petitions. Which cognitive processes underly empathy in such groups of people? To study this, we investigate what brain regions are activated at the same time (synchronously) across the group of people, and find that the regions (and cognitive processes) involved are mentalizing (perspective-taking) and emotion processing, suggesting intervention targets to improve empathy.  
->Tools/techniques - [Inter-Subject Correlation (ISC)](https://www.hassonlab.com/inter-subject-correlation), [Inter-Subject Representation-Similarity Analysis (IS-RSA)](https://naturalistic-data.org/content/Intersubject_RSA.html), sentiment analysis (NLTK, python).  
-Involvement - analysis.  
-
-### [Video presentation](https://youtu.be/W3ox_JQOzf0), [Poster](https://drive.google.com/file/d/1S5LWDyt2Ohi6v8Ymg9virOk8BSyNZ0kR/view?usp=sharing)
+lorem ipsum
 <br/><br/>
 ## Cognitive processes underlying Collective Empathy (poster at [Social Affective Neuroscience Society, 2022](https://socialaffectiveneuro.org))  
 Collective (group) empathy drives numerous real-world actions like fundraisers and petitions. Which cognitive processes underly empathy in such groups of people? To study this, we investigate what brain regions are activated at the same time (synchronously) across the group of people, and find that the regions (and cognitive processes) involved are mentalizing (perspective-taking) and emotion processing, suggesting intervention targets to improve empathy.  
