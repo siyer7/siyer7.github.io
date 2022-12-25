@@ -1,15 +1,10 @@
 ## Research Assistant at [Dartmouth Social Neuroscience Lab](http://www.dartmouth-socialneurolab.com)
 [CV](https://drive.google.com/file/d/1re4ELCf2sCyWzUF3h9sbAehXcIgBKgx4/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/SiddhantIyer6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Contact](mailto:siddhant.kumar.iyer@gmail.com)  
 
-## The Default Mode Network Imbues Subjectivity in Social Memory during Consolidation  
-lorem ipsum
-<br/><br/>
-## Cognitive processes underlying Collective Empathy (poster at [Social Affective Neuroscience Society, 2022](https://socialaffectiveneuro.org))  
-Collective (group) empathy drives numerous real-world actions like fundraisers and petitions. Which cognitive processes underly empathy in such groups of people? To study this, we investigate what brain regions are activated at the same time (synchronously) across the group of people, and find that the regions (and cognitive processes) involved are mentalizing (perspective-taking) and emotion processing, suggesting intervention targets to improve empathy.  
->Tools/techniques - [Inter-Subject Correlation (ISC)](https://www.hassonlab.com/inter-subject-correlation), [Inter-Subject Representation-Similarity Analysis (IS-RSA)](https://naturalistic-data.org/content/Intersubject_RSA.html), sentiment analysis (NLTK, python).  
+## Why we remember social experiences differently (1st author preprint, available by Mar, 2023; presented, poster at [Social Affective Neuroscience Society, 2022](https://socialaffectiveneuro.org))  
+Often, a friend might recall a social experience (e.g., an interaction or game) more negatively than yourself - what neural mechanisms govern such memory differences? We find that right after the experience, the 'negative' folks exhibit similar patterns of cross talk (connectivity) within their brain's default network (which is more active when not engaged in any mental activity), whereas the 'positive' folks have unique patterns. In other words, 'negative' folks consolidate their social memories similarly - what governs this similarity, and how can we override these common thought patterns that may plague more serious cases like in trauma and anxiety?  
+>Tools/techniques - Functional Connectivity, [Inter-Subject Correlation (ISC)](https://www.hassonlab.com/inter-subject-correlation), [Inter-Subject Representation-Similarity Analysis (IS-RSA)](https://naturalistic-data.org/content/Intersubject_RSA.html), [Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis).  
 Involvement - analysis.  
-
-### [Video presentation](https://youtu.be/W3ox_JQOzf0), [Poster](https://drive.google.com/file/d/1S5LWDyt2Ohi6v8Ymg9virOk8BSyNZ0kR/view?usp=sharing)
 <br/><br/>
 ## Representation of people in the brain and it's association with social connection (data collection ongoing)  
 Does people's extent of social connection modulate self-other neural representation? Do loneliner folks have more distinct representations of themselves? Are certain folks more susceptible to negative social evaluation? To answer these questions, we are collecting fMRI data, behavioral data, blood samples (to test for loneliness biomarkers), and interview recordings.  
