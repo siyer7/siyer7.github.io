@@ -5,6 +5,7 @@
 Often, a friend might recall a social experience (e.g., an interaction or game) more negatively than yourself - what neural mechanisms govern such memory differences? We find that right after the experience, the 'negative' folks exhibit similar patterns of cross talk (connectivity) within their brain's default network (which is more active when not engaged in any mental activity), whereas the 'positive' folks have unique patterns. In other words, 'negative' folks consolidate their social memories similarly - what governs this similarity, and how can we override these common thought patterns that may plague more serious cases like in trauma and anxiety?  
 >Tools/techniques - Functional Connectivity, [Inter-Subject Correlation (ISC)](https://www.hassonlab.com/inter-subject-correlation), [Inter-Subject Representation-Similarity Analysis (IS-RSA)](https://naturalistic-data.org/content/Intersubject_RSA.html), [Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis).  
 Involvement - analysis.
+
 <br/><br/>
 ## Representation of people in the brain and it's association with social connection (data collection ongoing)  
 Does people's extent of social connection modulate self-other neural representation? Do loneliner folks have more distinct representations of themselves? Are certain folks more susceptible to negative social evaluation? To answer these questions, we are collecting fMRI data, behavioral data, blood samples (to test for loneliness biomarkers), and interview recordings.  
