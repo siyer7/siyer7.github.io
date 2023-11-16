@@ -1,3 +1,5 @@
+## A cognitive neuroscience student's journey of understanding computation
+
 If your only foray into neuroscience is cognitive, then you may not understand papers coming from its sister field of computation. You may not understand what a 'model' means, or why a model seems to be proposed every other day, or how someone could find tuning parameters as fun as 'understanding cognition, emotions, decision making'. You are not alone (and I sincerely hope I wasn't alone). My aim here is to tell the story of how I came to appreciate these terms and what they represent, as opposed to simply telling you the facts. For what it's worth, I think that's how a lot of teaching should be done - motivating a discovery or theory as opposed to listing it down.
 
 
