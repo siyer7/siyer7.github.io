@@ -4,6 +4,7 @@
 ![](images/nyc.jpg)
 
 [Projects](Projects.md)  
+[Blog](CCN.md)
 [Philosophies](Philosophies.md) (Under construction)  
 [Personal](Personal.md) (Under construction)  
 
