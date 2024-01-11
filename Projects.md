@@ -3,7 +3,7 @@
 
 ## [Brain regions involved in remembering differently & positively](doi.org/10.1073/pnas.2306295121)  
 Often, a friend might recall a difficult social experience more positively than yourself. What brain networks coordinate these differences? We find that right after the experience, these positive folks' brains exhibit very _distinct_ cross-talk (connectivity) within their default network -- 'default' referring to the fact this network's regions typically activate, by default, when we rest. In contrast, the default network in folks with negative memories engage in a more _stereotyped_ fashion. We further show these effects are specific in time and brain space. This finding suggests that exploring _distinct_ thought spaces may be useful to hold positive memories of negative experiences.  
->Want to understand the techniques used? -> [Functional Connectivity](https://dartbrains.org/content/Connectivity.html), [Inter-Subject Correlation (ISC)](www.hassonlab.com/inter-subject-correlation), [Inter-Subject Representation-Similarity Analysis (IS-RSA)](naturalistic-data.org/content/Intersubject_RSA.html), [Sentiment analysis](en.wikipedia.org/wiki/Sentiment_analysis).  
+>Want to understand the techniques used? -> [Functional Connectivity](https://dartbrains.org/content/Connectivity.html), [Inter-Subject Correlation (ISC)](https://www.hassonlab.com/inter-subject-correlation), [Inter-Subject Representation-Similarity Analysis (IS-RSA)](https://naturalistic-data.org/content/Intersubject_RSA.html), [Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis).  
 
 <br/><br/>
 ## Representation of people in the brain and it's association with social connection (data collection ongoing)  
