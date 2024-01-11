@@ -1,5 +1,5 @@
 ## My understanding of a couple neuro subfields as I traversed through them (latest to oldest)
-#### This blog can be chalked up to an inspiration from [Mark Humphries' blog](medium.com/the-spike/the-neuroscientist-a-field-guide-ac15bb47372f)
+#### This blog can be chalked up to an inspiration from [Mark Humphries' blog](https://medium.com/the-spike/the-neuroscientist-a-field-guide-ac15bb47372f)
 
 ### Computational neuroscience:
 Only beginning september 2023 did I start getting serious exposure and some understadning of this field. I would now claim to have pivoted to this field, but am very firmly a naive student yet, so take what I say with a pinch of salt (at least as of 2024). So what is it about? Well, it seems there are at least 2 big themes: 1 is to build understanding, build _circuit/systems_ models of how neurons interact with one another, carry and pass information, cause behaviors, etc. The other is to build understanding, build _behavioral_ models of the mind, how our decisions are made, carried out, influenced by things like the environment or emotions, etc. The key requirement, it seems (though I could be wrong), is the use of models, which are like recipes for how neurons interact or decisions unfold.  
