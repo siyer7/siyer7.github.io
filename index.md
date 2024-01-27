@@ -6,4 +6,4 @@
 [Projects](Projects.md)  
 [Blog](CCN.md)
 
-Hello! This site is an attempt to document my research, and more generally, my life beyond the lab. This site isn't complete, but I figured that if I kept waiting for when it was 'done', it would be a long time coming. I have strived to make it (especially the upcoming 'Personal' section) transparent and relatable, noting my failures, struggles, and learnings, both in and out of lab. I hope you enjoy and feel free to reach out.
+Hello! This site is an attempt to document my research, and more generally, my life beyond the lab. This site isn't complete, but I figured that if I kept waiting for when it was 'done', it would be a long time coming.
