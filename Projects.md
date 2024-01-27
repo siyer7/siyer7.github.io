@@ -10,26 +10,14 @@ Often, a friend might recall a difficult social experience more positively than 
 Similar brain activity tends to reflect similar cognitive processes. At the same time, similar thoughts, values, etc. tend to bind people together, while dissimilarity breeds disconnectedness. Here we find that dissimilar brain activity when thinking about popular figures reflects social disconnectedness, and vice versa.    
 
 <br/><br/>
-## Do people with autism differently integrate visual & proprioceptive inputs from Virtual Reality? (Summer research, 2019)  
-People with Austism exhibit atypical multisensory integration, which may cause difficulties with sensorimotor behaviors. Here, we investigate their visuo-proprioceptive integration using a VR Headset, predicting overweighting of proprioceptive inputs.  
->Tools/techniques - Unity game design, C#, VR Oculus Rift.  
->Involvement - experimental design, piloting.  
+## How do people with Autism combine different perceptual senses (vision & kinaesthetics)? (paper incoming)  
+When you move your hand in front of you, you get information about its movement through vision as well as kinaesthetics (the sense of motion of your own body). People with autism, in some cases, have difficulty combining information through multiple sources. Here we show that when combining vision & kinaesthetics, people with and without autism perform _similar_ combinations: specifically, they both tend to distrust their visual sense. For example, if their eyes (vision) tell them their hands are moving upward ever so _slightly_, while their kinaesthetics tells them that their hand is stationary, people will tend to in fact believe that their hands are moving _slightly_ downwards, in the direction opposite to vision! We use Virtual Reality to test this.
 
 <br/><br/>
-## Neural Theory of Mind (ToM) and it's association with relationship satisfaction (Undergraduate Honors Thesis, 2021)  
-Are people able to mentally represent their romantic partners' thoughts (this ability, roughly, is called Theory of Mind)? To do so, are they imagining themselves in their partners' shoes (Simulation), or following common-sense mental schemas (Theory-Theory)? [(read: ToM & simulation vs theory-theory)](http://embodiedknowledge.blogspot.com/2011/02/simulation-theory-vs-theory-theory.html) Does this have effects on their relationship? We found neural evidence for Theory of Mind in practice, but could not account for it using the Simulation hypothesis, and did not find an associated with relationship satisfaction.  
->Tools/techniques - SPM, [Multi-Voxel Pattern Analysis](https://www.youtube.com/watch?v=odXZS8OYnDE) using [The Decoding Toolbox](https://sites.google.com/site/tdtdecodingtoolbox/) (Matlab), multi-level modeling (*R*), [actor-partner interdependence modeling](https://journals.sagepub.com/doi/abs/10.1080/01650250444000405?journalCode=jbda).  
->Involvement - analysis, writing/presentation.  
+## How clearly you conceptualize of your partner's thoughts in your brain does not reflect your relationship satisfaction (Undergraduate Honors Thesis; [paper](https://drive.google.com/file/d/1ns8i8w2RaADW3nm_YVQnqG3MIgnHVREG/view?usp=sharing))  
+We find that people's brain activity shows specific patterns when thinking about others' (their partners') thoughts, an ability called [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind), typically exercised by the [temporo-parietal junction](https://en.wikipedia.org/wiki/Temporoparietal_junction#:~:text=Theory%20of%20mind,-Theory%20of%20mind&text=Recent%20studies%20suggest%20that%20both,states%20of%20self%20and%20others.). While one would imagine that clearly thinking about one's partner's thoughts might support empathy, thoughtfulness, etc., we find no associated of this with the couples' relationship satisfaction.  
+>Tools/techniques - [Multi-Voxel Pattern Analysis](https://www.youtube.com/watch?v=odXZS8OYnDE), [multi-level modeling] (https://www.bristol.ac.uk/cmm/learning/multilevel-models/what-why.html#:~:text=Multilevel%20models%20recognise%20the%20existence,the%20child%20and%20school%20level.), [actor-partner interdependence modeling](https://journals.sagepub.com/doi/abs/10.1080/01650250444000405?journalCode=jbda).    
 
-### [Thesis](https://drive.google.com/file/d/1ns8i8w2RaADW3nm_YVQnqG3MIgnHVREG/view?usp=sharing)
 <br/><br/>
-## Overconfidence at cognitive tasks driven by ignorance? (Poster from Advanced Lab course, at Undergraduate Research Exposition, 2020)  
-A replication of [Human noise blindness drives suboptimal cognitive inference, by Summerfield, C, et al., 2019 (Nature communications)](https://www.nature.com/articles/s41467-019-09330-7). For the same level of difficulty, we are less accurate but more (over)confident at cognitive tasks, relative to perceptual tasks, suggesting that we are blind to cognitive difficulty. This sheds further light on the nature of multidimensional human intelligence.  
->Tools/techniques - Matlab, Psychtoolbox.  
->Involvement - spearheading project, from design to data collection/analysis, and writing/presentation.  
-
-### [Poster](https://drive.google.com/file/d/1kt2NTJqlA8VAAGdZ8CnLlgxnGuXFlgvf/view?usp=sharing),  [Manuscript](https://drive.google.com/file/d/1jOr3APRANkCdkK8yipAX8hQSRBJugI18/view?usp=sharing)
-
-### [Poster](https://drive.google.com/file/d/1Fdic1iz6vYBe0t0kCWxRb4nhdV_RnzFk/view?usp=sharing)
-<br/><br/>
-## Other courses
+## Unawareness of errors when noting what you saw are caused not by poor visual perception, but by poor combination of multiple visual cues. ([paper]((https://drive.google.com/file/d/1jOr3APRANkCdkK8yipAX8hQSRBJugI18/view?usp=sharing)); [poster](https://drive.google.com/file/d/1kt2NTJqlA8VAAGdZ8CnLlgxnGuXFlgvf/view?usp=sharing))  
+A replication of [this paper](https://www.nature.com/articles/s41467-019-09330-7). We are blind to our errors when we combine visual information from different locations. This sheds light on the fact that errors occur not initally at the time of perception, but later at the time of combination & computation.  
